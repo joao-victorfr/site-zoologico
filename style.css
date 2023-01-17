@@ -1,0 +1,56 @@
+
+h1{
+    text-align: center;
+    color: rgb(0,191,255);
+}
+
+body{
+    background-color: bisque;
+}
+
+.img{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+}
+
+.text-style{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+    max-height: 300px;
+}
+
+#rel-zoo-1{
+    text-align: center;
+    background-color: rgb(220,220,220);
+    width: 450px;
+    max-width: 450px;
+    max-height: 300px;
+}
+
+#info-zoo-1{
+    text-align:center;
+    background-color: rgb(220,220,220);
+    width: 450px;
+    max-width: 450px;
+    max-height: 300px;
+}
+#imagem1{
+    width: 450px;
+}
+
+#imagem2{
+    width: 450px;
+    max-height: 300px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(152,164,245);
+}
+
+h2{
+    text-align: center;
+    
+}
